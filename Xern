@@ -1,0 +1,6 @@
+Xern is a fitness app designed to help users develop an early and active morning routine. 
+To motivate them, users are rewarded every morning upon completing the routine. The reward is real money added to their wallet. 
+If a user fails to complete the routine on any given day, they will lose money.
+
+The app includes an Android application for users, which utilizes machine learning/artificial intelligence to analyze users' recorded 
+sessions to determine if they have fully completed the session. Based on this analysis, users will receive rewards.
