@@ -1,8 +1,0 @@
-Vakrangee is a plastic bag and balis-making company implementing an ERP project to streamline inventory and production management.
-Key modules include:
-
-Master: Enables addition of departments, employees, etc.
-Stock Management: Manages inventory in Vakrangee storage.
-Production: Tracks daily production in Vakrangee warehouse.
-Sales: Manages sales orders.
-HR: Oversees employee leave and salary management.
