@@ -1,0 +1,10 @@
+This is an online platform designed for users to apply for instant loans by providing the necessary information. The project comprises four distinct panels, each fulfilling a crucial role in facilitating the OneTap loan application process:
+
+1. Website: This panel serves as the user interface where individuals can conveniently apply for instant loans online. Gained expertise in fintech APIs: ENACH, ESIGN, Bank Statement Analyzer, Bank Account Verification, CIBIL Score Integration, Face recoginition & livliness, PAN & Aadhaar Paperless Integration from Transunion, Authbridge, Digio , Perfios, ICICI bank.
+
+2. DSA (Direct Selling Agent): The DSA panel allows agents to register themselves and submit requests for approval to join the platform. 
+   These requests are processed by the Loan Origination System (LOS) administrator. Additionally, agents can view and manage their generated leads within this panel.
+3. LOS (Loan Origination System): The LOS panel consists of two sub-panels: 
+    a) DSA Backend: This administrative panel enables the LOS administrator to approve agents and oversee their details.
+    b) LOS Admin Portal: This section of the LOS is dedicated to managing user details and applications for loans.
+4. APIs for app's clients: This set of APIs is provided for clients of app who wish to integrate app's loan application services into their lending business."
